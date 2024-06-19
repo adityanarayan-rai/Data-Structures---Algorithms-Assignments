@@ -1,5 +1,7 @@
 # Course Assignments - Data Structures & Algorithms
-This repository includes the Python Assignments from the Data Structures and Algorithms course I did for the partial completion of my MSc Data Science for Public Policy degree at Hertie School, Berlin
+
+This repository includes the Python Assignments from the Data Structures and Algorithms course I did for the partial completion of my MSc Data Science for Public Policy degree at Hertie School, Berlin.
+
 **Assignment 1:**
 - Convert decimal integers into 8-bit Two’s Complement signed integers.
 - Addition/Subtraction of integers in Two’s Complement notation
